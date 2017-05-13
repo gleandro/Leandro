@@ -1,0 +1,5 @@
+El punto del web services XML
+se debe acceder a la siguiente rura /pregunta/consulta/rango&rango
+ejem /pregunta/consulta/0&2000
+se utilizo un archivo .htaccess para no ingresar el index.php de la ruta en el WS 
+La ruta donde se encuentra el desarrollo de la pregunta 04 es la siguiente /pregunta04/home.php
